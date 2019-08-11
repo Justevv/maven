@@ -21,6 +21,12 @@
             <version>11.2.0.3</version>
             <type>pom</type>
         </dependency>
+        <dependency>
+            <groupId>cn.easyproject</groupId>
+            <artifactId>ojdbc7</artifactId>
+            <version>12.1.0.2.0</version>
+            <type>pom</type>
+        </dependency>
     </dependencies>
 
     <properties>
