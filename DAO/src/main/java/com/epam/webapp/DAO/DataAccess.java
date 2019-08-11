@@ -10,7 +10,7 @@ public class DataAccess {
         testData.add("Test1");
         testData.add("Test2");
         testData.add("Test3");
-        testDatas.add("Test3");
+        testData.add("Test3");
     }
 
     public List<String> getTestData() {
